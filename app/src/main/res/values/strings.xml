@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smartlock</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="feature_error">This feature is not yet implemented</string>
+    <string name="title_activity_locks">LocksActivity</string>
+</resources>
